@@ -1,0 +1,867 @@
+[
+    {
+        "name": "itching",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "skin rash",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "nodal skin eruptions",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "continuous sneezing",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "shivering",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "chills",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "joint pain",
+        "category": [
+            "leg",
+            "hand",
+            "pelvis"
+        ]
+    },
+    {
+        "name": "stomach pain",
+        "category": [
+            "abdomen"
+        ]
+    },
+    {
+        "name": "acidity",
+        "category": [
+            "abdomen"
+        ]
+    },
+    {
+        "name": "ulcers on tongue",
+        "category": [
+            "head"
+        ]
+    },
+    {
+        "name": "muscle wasting",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "vomiting",
+        "category": [
+            "abdomen"
+        ]
+    },
+    {
+        "name": "burning micturition",
+        "category": [
+            "pelvis"
+        ]
+    },
+    {
+        "name": "spotting  urination",
+        "category": [
+            "pelvis"
+        ]
+    },
+    {
+        "name": "fatigue",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "weight gain",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "anxiety",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "cold hands and feets",
+        "category": [
+            "hand",
+            "leg"
+        ]
+    },
+    {
+        "name": "mood swings",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "weight loss",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "restlessness",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "lethargy",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "patches in throat",
+        "category": [
+            "head"
+        ]
+    },
+    {
+        "name": "irregular sugar level",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "cough",
+        "category": [
+            "chest"
+        ]
+    },
+    {
+        "name": "high fever",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "sunken eyes",
+        "category": [
+            "head"
+        ]
+    },
+    {
+        "name": "breathlessness",
+        "category": [
+            "chest"
+        ]
+    },
+    {
+        "name": "sweating",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "dehydration",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "indigestion",
+        "category": [
+            "abdomen"
+        ]
+    },
+    {
+        "name": "headache",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "yellowish skin",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "dark urine",
+        "category": [
+            "pelvis"
+        ]
+    },
+    {
+        "name": "nausea",
+        "category": [
+            "abdomen"
+        ]
+    },
+    {
+        "name": "loss of appetite",
+        "category": [
+            "abdomen"
+        ]
+    },
+    {
+        "name": "pain behind the eyes",
+        "category": [
+            "head"
+        ]
+    },
+    {
+        "name": "back pain",
+        "category": [
+            "chest"
+        ]
+    },
+    {
+        "name": "constipation",
+        "category": [
+            "abdomen"
+        ]
+    },
+    {
+        "name": "abdominal pain",
+        "category": [
+            "abdomen"
+        ]
+    },
+    {
+        "name": "diarrhoea",
+        "category": [
+            "abdomen"
+        ]
+    },
+    {
+        "name": "mild fever",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "yellow urine",
+        "category": [
+            "pelvis",
+            "other"
+        ]
+    },
+    {
+        "name": "yellowing of eyes",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "acute liver failure",
+        "category": [
+            "abdomen",
+            "other"
+        ]
+    },
+    {
+        "name": "fluid overload",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "swelling of stomach",
+        "category": [
+            "abdomen",
+            "other"
+        ]
+    },
+    {
+        "name": "swelled lymph nodes",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "malaise",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "blurred and distorted vision",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "phlegm",
+        "category": [
+            "chest",
+            "other"
+        ]
+    },
+    {
+        "name": "throat irritation",
+        "category": [
+            "chest",
+            "other"
+        ]
+    },
+    {
+        "name": "redness of eyes",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "sinus pressure",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "runny nose",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "congestion",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "chest pain",
+        "category": [
+            "chest",
+            "other"
+        ]
+    },
+    {
+        "name": "weakness in limbs",
+        "category": [
+            "leg",
+            "arm"
+        ]
+    },
+    {
+        "name": "fast heart rate",
+        "category": [
+            "chest",
+            "other"
+        ]
+    },
+    {
+        "name": "pain during bowel movements",
+        "category": [
+            "abdomen",
+            "other"
+        ]
+    },
+    {
+        "name": "pain in anal region",
+        "category": [
+            "abdomen",
+            "pelvis",
+            "other"
+        ]
+    },
+    {
+        "name": "bloody stool",
+        "category": [
+            "abdomen",
+            "pelvis",
+            "other"
+        ]
+    },
+    {
+        "name": "irritation in anus",
+        "category": [
+            "abdomen",
+            "pelvis",
+            "other"
+        ]
+    },
+    {
+        "name": "neck pain",
+        "category": [
+            "head"
+        ]
+    },
+    {
+        "name": "dizziness",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "cramps",
+        "category": [
+            "abdomen",
+            "arm",
+            "leg",
+            "other"
+        ]
+    },
+    {
+        "name": "bruising",
+        "category": [
+            "arm",
+            "leg",
+            "other"
+        ]
+    },
+    {
+        "name": "obesity",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "swollen legs",
+        "category": [
+            "leg"
+        ]
+    },
+    {
+        "name": "swollen blood vessels",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "puffy face and eyes",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "enlarged thyroid",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "brittle nails",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "swollen extremeties",
+        "category": [
+            "leg",
+            "arm",
+            "other"
+        ]
+    },
+    {
+        "name": "excessive hunger",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "extra marital contacts",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "drying and tingling lips",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "slurred speech",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "knee pain",
+        "category": [
+            "leg"
+        ]
+    },
+    {
+        "name": "hip joint pain",
+        "category": [
+            "leg",
+            "pelvis"
+        ]
+    },
+    {
+        "name": "muscle weakness",
+        "category": [
+            "other",
+            "arm",
+            "leg",
+            "other"
+        ]
+    },
+    {
+        "name": "stiff neck",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "swelling joints",
+        "category": [
+            "arm",
+            "leg",
+            "pelvis",
+            "other"
+        ]
+    },
+    {
+        "name": "movement stiffness",
+        "category": [
+            "arm",
+            "leg",
+            "pelvis",
+            "other"
+        ]
+    },
+    {
+        "name": "spinning movements",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "loss of balance",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "unsteadiness",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "weakness of one body side",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "loss of smell",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "bladder discomfort",
+        "category": [
+            "pelvis",
+            "other"
+        ]
+    },
+    {
+        "name": "foul smell of urine",
+        "category": [
+            "pelvis",
+            "other"
+        ]
+    },
+    {
+        "name": "continuous feel of urine",
+        "category": [
+            "pelvis",
+            "other"
+        ]
+    },
+    {
+        "name": "passage of gases",
+        "category": [
+            "abdomen",
+            "other"
+        ]
+    },
+    {
+        "name": "internal itching",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "toxic look (typhos)",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "depression",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "irritability",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "muscle pain",
+        "category": [
+            "arm",
+            "leg",
+            "other"
+        ]
+    },
+    {
+        "name": "altered sensorium",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "red spots over body",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "belly pain",
+        "category": [
+            "abdomen",
+            "other"
+        ]
+    },
+    {
+        "name": "abnormal menstruation",
+        "category": [
+            "pelvis",
+            "other"
+        ]
+    },
+    {
+        "name": "dischromic patches",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "watering from eyes",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "increased appetite",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "polyuria",
+        "category": [
+            "abdomen",
+            "pelvis"
+        ]
+    },
+    {
+        "name": "family history",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "mucoid sputum",
+        "category": [
+            "chest"
+        ]
+    },
+    {
+        "name": "rusty sputum",
+        "category": [
+            "chest"
+        ]
+    },
+    {
+        "name": "lack of concentration",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "visual disturbances",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "receiving blood transfusion",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "receiving unsterile injections",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "coma",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "stomach bleeding",
+        "category": [
+            "abdomen"
+        ]
+    },
+    {
+        "name": "distention of abdomen",
+        "category": [
+            "abdomen"
+        ]
+    },
+    {
+        "name": "history of alcohol consumption",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "fluid overload.1",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "blood in sputum",
+        "category": [
+            "chest"
+        ]
+    },
+    {
+        "name": "prominent veins on calf",
+        "category": [
+            "leg"
+        ]
+    },
+    {
+        "name": "palpitations",
+        "category": [
+            "chest",
+            "other"
+        ]
+    },
+    {
+        "name": "painful walking",
+        "category": [
+            "leg"
+        ]
+    },
+    {
+        "name": "pus filled pimples",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "blackheads",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "scurring",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "skin peeling",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "silver like dusting",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "small dents in nails",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "inflammatory nails",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "blister",
+        "category": [
+            "other"
+        ]
+    },
+    {
+        "name": "red sore around nose",
+        "category": [
+            "head",
+            "other"
+        ]
+    },
+    {
+        "name": "yellow crust ooze",
+        "category": [
+            "head",
+            "other"
+        ]
+    }
+]

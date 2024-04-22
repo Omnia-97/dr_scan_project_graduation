@@ -1,0 +1,39 @@
+{
+    "user_id": "RDjapleBC7TBBQ15NE9",
+    "date": "26-06-2023",
+    "time": "12:00:00",
+    "diagnosis": [
+        {
+            "prediction": "anemia",
+            "confidence": 0.8
+        },
+        {
+            "prediction": "hepatitis b",
+            "confidence": 0.15
+        },
+        {
+            "prediction": "hepatitis c",
+            "confidence": 0.05
+        }
+    ],
+    "symptoms": [
+        {
+            "name": "itching",
+            "category": [
+                "other"
+            ]
+        },
+        {
+            "name": "skin rash",
+            "category": [
+                "other"
+            ]
+        },
+        {
+            "name": "nodal skin eruptions",
+            "category": [
+                "other"
+            ]
+        }
+    ]
+}

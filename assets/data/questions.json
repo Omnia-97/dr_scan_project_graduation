@@ -1,0 +1,30 @@
+[
+    {
+        "question": "Do you have a history of alcohol consumption?",
+        "symptom": {
+            "name": "history of alcohol consumption",
+            "category": [
+                "other"
+            ]
+        }
+    },
+    {
+        "question": "Do you have a history of receiving blood transfusion?",
+        "symptom": {
+            "name": "receiving blood transfusion",
+            "category": [
+                "other"
+            ]
+        }
+    },
+    {
+        "question": "Do you have a history of receiving unsterile injections?",
+        "symptom": {
+            "name": "receiving unsterile injections",
+            "category": [
+                "other"
+            ]
+        }
+    }
+]
+

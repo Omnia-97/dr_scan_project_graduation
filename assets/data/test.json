@@ -1,0 +1,27 @@
+{
+    "user_id": "RDjapleBC7TBBQ15NE9",
+    "diagnosis_prediction": "anemia",
+    "diagnosis_confidence": 0.8,
+    "diagnosis_date": "26-06-2023",
+    "diagnosis_time": "12:00:00",
+    "symptoms": [
+        {
+            "name": "itching",
+            "category": [
+                "other"
+            ]
+        },
+        {
+            "name": "skin rash",
+            "category": [
+                "other"
+            ]
+        },
+        {
+            "name": "nodal skin eruptions",
+            "category": [
+                "other"
+            ]
+        }
+    ]
+}
