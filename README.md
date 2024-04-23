@@ -66,6 +66,6 @@ Contributing
 Contributions to Dr. Scan are highly appreciated! If you're interested in contributing, please fork the repository and submit a pull request with your proposed changes.
 
 
-License
+## Credits 🙌
 
-Dr. Scan is licensed under the MIT License - see the LICENSE file for details.
+This project was created with love by [Omnia-97 and Mariam-Elkhelawy].
