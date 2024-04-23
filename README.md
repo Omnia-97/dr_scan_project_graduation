@@ -1,14 +1,13 @@
 # 🩺 Dr. Scan Project
 
-## Getting Started
+# Getting Started
 
 🩺 Dr. Scan - Your Health Companion
 
 Dr. Scan is a Flutter-based mobile application designed to revolutionize healthcare accessibility by simplifying the process of medical test interpretation and diagnosis for patients. With Dr. Scan, patients can conveniently access their test results, receive symptom guidance, and connect with relevant healthcare specialists anytime, anywhere.
 
-## Features
+# Features
 
-```markdown
 . 💡 Effortless Test Interpretation: Dr. Scan employs advanced image processing algorithms to swiftly and accurately interpret medical tests, eliminating the need for frequent doctor visits for result analysis.
 
 . 🩺 Symptom Assessment: The app guides users through a series of questions to assess their symptoms, aiding in identifying the location and severity of discomfort for more informed diagnosis.
@@ -20,8 +19,7 @@ Dr. Scan is a Flutter-based mobile application designed to revolutionize healthc
 . 🔊 Multimodal Results Presentation: In addition to written reports, Dr. Scan provides audio summaries of test results for enhanced accessibility and user convenience.
 
 
-## Installation
-
+# Installation
 
 1- Clone this repository to your local machine using git clone https://github.com/Omnia-97/dr_scan_project_graduation.git.
 
@@ -32,8 +30,7 @@ Dr. Scan is a Flutter-based mobile application designed to revolutionize healthc
 4- Run the app on a connected device or simulator: flutter run.
 
 
-## Usage
-
+# Usage
 
 1- Test Interpretation:
 
@@ -60,12 +57,12 @@ Dr. Scan is a Flutter-based mobile application designed to revolutionize healthc
 . 📝 Access written reports and audio summaries of your test results for easy comprehension.
 
 
-## Contributing
+# Contributing
 
 Contributions to Dr. Scan are highly appreciated! If you're interested in contributing, please fork the repository and submit a pull request with your proposed changes.
 
 
-## Credits 🙌
+# Credits 🙌
 
 This project was created with love by [Omnia-97 and Mariam-Elkhelawy]. ❤️
 
