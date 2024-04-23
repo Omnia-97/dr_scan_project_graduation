@@ -1,6 +1,4 @@
-# dr_scan_project
-
-Dr. Scan Flutter project.
+# Dr. Scan Flutter project.
 
 ## Getting Started
 
