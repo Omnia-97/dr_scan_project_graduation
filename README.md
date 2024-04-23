@@ -25,7 +25,7 @@ Features
 
 Installation
 
-1- Clone this repository to your local machine using git clone https://github.com/your_username/DrScan.git.
+1- Clone this repository to your local machine using git clone https://github.com/Omnia-97/dr_scan_project_graduation.git.
 
 2- Navigate to the project directory: cd DrScan.
 
