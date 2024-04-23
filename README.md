@@ -1,15 +1,14 @@
-# Dr. Scan Flutter project.
+# 🩺 Dr. Scan Project
 
 ## Getting Started
 
-Dr. Scan - Your Health Companion
+🩺 Dr. Scan - Your Health Companion
 
 Dr. Scan is a Flutter-based mobile application designed to revolutionize healthcare accessibility by simplifying the process of medical test interpretation and diagnosis for patients. With Dr. Scan, patients can conveniently access their test results, receive symptom guidance, and connect with relevant healthcare specialists anytime, anywhere.
 
+## Features
 
-
-Features
-
+```markdown
 . 💡 Effortless Test Interpretation: Dr. Scan employs advanced image processing algorithms to swiftly and accurately interpret medical tests, eliminating the need for frequent doctor visits for result analysis.
 
 . 🩺 Symptom Assessment: The app guides users through a series of questions to assess their symptoms, aiding in identifying the location and severity of discomfort for more informed diagnosis.
@@ -21,7 +20,8 @@ Features
 . 🔊 Multimodal Results Presentation: In addition to written reports, Dr. Scan provides audio summaries of test results for enhanced accessibility and user convenience.
 
 
-Installation
+## Installation
+
 
 1- Clone this repository to your local machine using git clone https://github.com/Omnia-97/dr_scan_project_graduation.git.
 
@@ -32,38 +32,40 @@ Installation
 4- Run the app on a connected device or simulator: flutter run.
 
 
-Usage
+## Usage
+
 
 1- Test Interpretation:
 
-. Capture a photo of your medical test using the app's camera feature.
+. 📸 Capture a photo of your medical test using the app's camera feature.
 
 . Dr. Scan will promptly process the image and provide a detailed interpretation of the test results.
 
 2- Symptom Assessment:
 
-. Respond to the app's prompted questions to describe your symptoms and their severity accurately.
+. 🩺 Respond to the app's prompted questions to describe your symptoms and their severity accurately.
 
 . Dr. Scan analyzes your responses to suggest potential health issues and recommend relevant specialist doctors.
 
 3- Specialist Referral:
 
-. Based on your test results and symptoms, Dr. Scan recommends suitable specialist doctors for further consultation and treatment.
+. 🏥 Based on your test results and symptoms, Dr. Scan recommends suitable specialist doctors for further consultation and treatment.
 
 4- Analytical Comparison:
 
-. Track changes in your health over time by comparing current and previous test results provided by Dr. Scan.
+. 📈 Track changes in your health over time by comparing current and previous test results provided by Dr. Scan.
 
 5- Multimodal Results Presentation:
 
-. Access written reports and audio summaries of your test results for easy comprehension.
+. 📝 Access written reports and audio summaries of your test results for easy comprehension.
 
 
-Contributing
+## Contributing
 
 Contributions to Dr. Scan are highly appreciated! If you're interested in contributing, please fork the repository and submit a pull request with your proposed changes.
 
 
 ## Credits 🙌
 
-This project was created with love by [Omnia-97 and Mariam-Elkhelawy].
+This project was created with love by [Omnia-97 and Mariam-Elkhelawy]. ❤️
+
