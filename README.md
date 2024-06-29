@@ -7,7 +7,6 @@
 - [Technology Stack](#technology-stack) 💻
 - [Installation](#installation) 🛠️
 - [Contribution](#contribution) 🤝
-- [License](#license) 📄
 - [Contact](#contact) 📧
 - [Authors](#authors) 👥
 
