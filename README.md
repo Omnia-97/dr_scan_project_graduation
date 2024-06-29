@@ -9,7 +9,7 @@
 - [Contribution](#contribution) 🤝
 - [License](#license) 📄
 - [Contact](#contact) 📧
-- [Authors](#authors) 👩‍💻👨‍💻
+- [Authors](#authors) 👩‍💻
 
 ## Overview 🌐
 
@@ -51,7 +51,7 @@ To get started with the DR Scan Flutter project, follow these steps:
    git clone https://github.com/Omnia-97/dr_scan_project_graduation.git
    cd dr_scan_project_graduation
 
-## 👥 Contributors
+## 👥 Authors
 
 - **Omnia Nabil** - [Omnia-97](https://github.com/Omnia-97)
 - **Mariam Elkhelawy** - [Mariam-Elkhelawy](https://github.com/Mariam-Elkhelawy)
