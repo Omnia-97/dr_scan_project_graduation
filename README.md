@@ -1,5 +1,5 @@
 # 🩺 Dr Scan 
-**DR Scan** is a Flutter-based mobile application designed to revolutionize the way patients interact with their medical test results
+**DR Scan** is a cutting-edge Flutter app revolutionizing patient interaction with medical test results. It empowers users to interpret health data independently, minimizing reliance on immediate medical consultations. The app aims to democratize healthcare access, offering a seamless user experience for monitoring and managing health effectively. 💡
 
 ## Table of Contents 📜
 - [Features](#features) 🚀
