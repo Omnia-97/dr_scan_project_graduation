@@ -9,10 +9,10 @@
 - [Contribution](#contribution) 🤝
 - [License](#license) 📄
 - [Contact](#contact) 📧
-- [Authors](#authors) 👩‍💻
+- [Authors](#authors) 👥
 
 <a id="=features"></a>
-## Features 🚀
+## 🚀 Features 
 1. 🧪**Automated Test Result Interpretation** : Users can upload their medical test results, and the app will analyze and interpret the data, providing insights and possible diagnoses.
 2. 👩‍⚕️**Specialist Recommendations** : Based on the analysis, the app suggests the appropriate specialist doctor for further consultation and treatment.
 3. 💸**Health Monitoring** : The app reassures users about their health status at minimal cost and effort by providing quick and accurate diagnostic results.
@@ -21,7 +21,7 @@
 6. 📄**Report Generation** : The app generates medical reports in the form of text or audio clips, according to the user's preference.
 
 <a id="technology-stack"></a>
-## Technology Stack 💻
+## 💻 Technology Stack 
 ### Frontend
 - **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 ### Backend
@@ -32,7 +32,7 @@
 - **GetX**: For state management, dependency injection, and route management within the Flutter app.
   
 <a id="installation"></a>
-## Installation 🛠️
+## 🛠️ Installation 
 
 To get started with the DR Scan Flutter project, follow these steps:
 
@@ -49,14 +49,15 @@ To get started with the DR Scan Flutter project, follow these steps:
    
    ```bash
    flutter run
- 
-# Contributing
+  
+<a id="=contribution"></a> 
+## 🤝 Contribution 
 
 Contributions to Dr. Scan are highly appreciated! If you're interested in contributing, please fork the repository and submit a pull request with your proposed changes.
 
 
 <a id="authors"></a>  
-## 👥 Authors
+## 👥 Authors 
 
 This project was created with love by [[Omnia-97](https://github.com/Omnia-97) and [Mariam-Elkhelawy](https://github.com/Mariam-Elkhelawy)]. ❤️
 
