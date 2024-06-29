@@ -20,7 +20,16 @@
 5. 📷**Scan Results** : Users can scan their medical test results directly into the app, avoiding the need to enter data manually.
 6. 📄**Report Generation** : The app generates medical reports in the form of text or audio clips, according to the user's preference.
 
+<a id="demo"></a>
+## Demo 🎥
+<video src='https://github.com/Omnia-97/dr_scan_project_graduation/assets/112530709/35ba1e5c-aeda-4a94-b2c3-94bc3b49ffe6
+'>
+</video>
+
+--- 
+
 <a id="technology-stack"></a>
+
 ## 💻 Technology Stack 
 ### Frontend
 - **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
