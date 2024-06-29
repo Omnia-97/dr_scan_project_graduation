@@ -21,21 +21,16 @@
 - ⚡ Offer a simple, fast, and accurate method to obtain diagnostic results.
 - 🗂 Save diagnostic results for future comparison and monitoring of the patient's health condition.
 - 📷 Allow users to scan medical test results directly, eliminating the need for manual data entry.
-- 📄🎧 Deliver medical reports in text or audio format, catering to the patient's preference.
+- 📄 Deliver medical reports in text or audio format, catering to the patient's preference.
 
 ## Features 🚀
 
-1. **Automated Test Result Interpretation** 🧪: Users can upload their medical test results, and the app will analyze and interpret the data, providing insights and possible diagnoses.
-
-2. **Specialist Recommendations** 👩‍⚕️: Based on the analysis, the app suggests the appropriate specialist doctor for further consultation and treatment.
-
-3. **Health Monitoring** 💸: The app reassures users about their health status at minimal cost and effort by providing quick and accurate diagnostic results.
-
-4. **History and Comparison** 🗂: All diagnostic results are saved, allowing users to compare their health condition over time and monitor any changes.
-
-5. **Scan Results** 📷: Users can scan their medical test results directly into the app, avoiding the need to enter data manually.
-
-6. **Report Generation** 📄🎧: The app generates medical reports in the form of text or audio clips, according to the user's preference.
+1. 🧪**Automated Test Result Interpretation** : Users can upload their medical test results, and the app will analyze and interpret the data, providing insights and possible diagnoses.
+2. 👩‍⚕️**Specialist Recommendations** : Based on the analysis, the app suggests the appropriate specialist doctor for further consultation and treatment.
+3. 💸**Health Monitoring** : The app reassures users about their health status at minimal cost and effort by providing quick and accurate diagnostic results.
+4. 🗂**History and Comparison** : All diagnostic results are saved, allowing users to compare their health condition over time and monitor any changes.
+5. 📷**Scan Results** : Users can scan their medical test results directly into the app, avoiding the need to enter data manually.
+6. 📄**Report Generation** : The app generates medical reports in the form of text or audio clips, according to the user's preference.
 
 ## Technology Stack
 
