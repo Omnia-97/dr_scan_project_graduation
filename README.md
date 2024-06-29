@@ -65,5 +65,5 @@ Contributions to Dr. Scan are highly appreciated! If you're interested in contri
 
 # Credits 🙌
 
-This project was created with love by [**Omnia Nabil** - [Omnia-97](https://github.com/Omnia-97) and **Mariam Elkhelawy** - [Mariam-Elkhelawy](https://github.com/Mariam-Elkhelawy)]. ❤️
+This project was created with love by [[Omnia-97](https://github.com/Omnia-97) and [Mariam-Elkhelawy](https://github.com/Mariam-Elkhelawy)]. ❤️
 
