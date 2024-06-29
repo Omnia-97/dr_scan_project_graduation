@@ -20,6 +20,8 @@
 5. 📷**Scan Results** : Users can scan their medical test results directly into the app, avoiding the need to enter data manually.
 6. 📄**Report Generation** : The app generates medical reports in the form of text or audio clips, according to the user's preference.
 
+--- 
+
 <a id="demo"></a>
 ## Demo 🎥
 
@@ -42,6 +44,8 @@
 ### State Management
 - **GetX**: For state management, dependency injection, and route management within the Flutter app.
   
+--- 
+
 <a id="installation"></a>
 ## 🛠️ Installation 
 
@@ -61,6 +65,8 @@ To get started with the DR Scan Flutter project, follow these steps:
    ```bash
    flutter run
  
+--- 
+
 <a id="contribution"></a> 
 ## 🤝 Contribution 
 
