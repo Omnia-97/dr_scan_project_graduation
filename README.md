@@ -11,7 +11,7 @@
 - [Contact](#contact) 📧
 - [Authors](#authors) 👥
 
-<a id="=features"></a>
+<a id="features"></a>
 ## 🚀 Features 
 
 1. 🧪**Automated Test Result Interpretation** : Users can upload their medical test results, and the app will analyze and interpret the data, providing insights and possible diagnoses.
@@ -52,7 +52,7 @@ To get started with the DR Scan Flutter project, follow these steps:
    flutter run
 
    
-<a id="=contribution"></a> 
+<a id="contribution"></a> 
 ## 🤝 Contribution 
 
 Contributions to Dr. Scan are highly appreciated! If you're interested in contributing, please fork the repository and submit a pull request with your proposed changes.
