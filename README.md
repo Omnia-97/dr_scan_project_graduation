@@ -49,9 +49,7 @@ To get started with the DR Scan Flutter project, follow these steps:
    
    ```bash
    flutter run
-   
-  
-
+ 
 # Contributing
 
 Contributions to Dr. Scan are highly appreciated! If you're interested in contributing, please fork the repository and submit a pull request with your proposed changes.
