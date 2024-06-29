@@ -42,7 +42,12 @@ To get started with the DR Scan Flutter project, follow these steps:
    ```bash
    git clone https://github.com/Omnia-97/dr_scan_project_graduation.git
    cd dr_scan_project_graduation
-
+2. **Install dependencies**:
+   ```bash
+   flutter pub get
+3. **Run the app**:  
+   ```bash
+   flutter run   
 ## 👥 Authors
 
 - **Omnia Nabil** - [Omnia-97](https://github.com/Omnia-97)
