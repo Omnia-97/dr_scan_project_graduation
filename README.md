@@ -31,7 +31,8 @@
 - **Firebase Authentication**: Used for authenticating users with email/password as well as Google and Facebook sign-ins.
 - **Firebase Firestore**: For storing and retrieving user data and diagnostic results.
 - **REST API**: Used for communicating with a machine learning model for analyzing and interpreting medical test results.
-
+## State Management
+GetX: For state management, dependency injection, and route management within the Flutter app.
 ## Installation
 
 To get started with the DR Scan Flutter project, follow these steps:
