@@ -50,8 +50,7 @@ To get started with the DR Scan Flutter project, follow these steps:
    
    ```bash
    flutter run
-
-   
+ 
 <a id="contribution"></a> 
 ## 🤝 Contribution 
 
