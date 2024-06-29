@@ -1,17 +1,17 @@
 # 🩺 Dr Scan 
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [License](#license)
-- [Contact](#contact)
-- [Authors](#authors)
+## Table of Contents 📜
+- [Overview](#overview) 🌐
+- [Features](#features) 🚀
+- [Technology Stack](#technology-stack) 💻
+- [Installation](#installation) 🛠️
+- [Usage](#usage) 📲
+- [Contribution](#contribution) 🤝
+- [License](#license) 📄
+- [Contact](#contact) 📧
+- [Authors](#authors) 👩‍💻👨‍💻
 
-## Overview
+## Overview 🌐
 
 **DR Scan** is a Flutter-based mobile application designed to revolutionize the way patients interact with their medical test results. This app aims to:
 
@@ -23,7 +23,7 @@
 - 📷 Allow users to scan medical test results directly, eliminating the need for manual data entry.
 - 📄🎧 Deliver medical reports in text or audio format, catering to the patient's preference.
 
-## Features
+## Features 🚀
 
 1. **Automated Test Result Interpretation** 🧪: Users can upload their medical test results, and the app will analyze and interpret the data, providing insights and possible diagnoses.
 
