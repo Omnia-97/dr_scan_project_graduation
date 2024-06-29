@@ -22,9 +22,6 @@
 
 <a id="demo"></a>
 ## Demo 🎥
-<video src='https://github.com/Omnia-97/dr_scan_project_graduation/assets/112530709/35ba1e5c-aeda-4a94-b2c3-94bc3b49ffe6
-'>
-</video>
 
 <div align="center">
   <video src="https://github.com/Omnia-97/dr_scan_project_graduation/assets/112530709/1346d337-02d6-43d5-beb7-2b5192d5489f
