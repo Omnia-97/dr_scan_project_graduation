@@ -32,7 +32,7 @@
 - **Firebase Firestore**: For storing and retrieving user data and diagnostic results.
 - **REST API**: Used for communicating with a machine learning model for analyzing and interpreting medical test results.
 ### State Management
-**GetX**: For state management, dependency injection, and route management within the Flutter app.
+- **GetX**: For state management, dependency injection, and route management within the Flutter app.
 
 ## Installation 🛠️
 
