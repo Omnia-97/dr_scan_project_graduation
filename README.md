@@ -22,7 +22,7 @@
 5. 📷**Scan Results** : Users can scan their medical test results directly into the app, avoiding the need to enter data manually.
 6. 📄**Report Generation** : The app generates medical reports in the form of text or audio clips, according to the user's preference.
 
-## Technology Stack
+## Technology Stack 💻
 
 ### Frontend
 - **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
@@ -33,7 +33,8 @@
 - **REST API**: Used for communicating with a machine learning model for analyzing and interpreting medical test results.
 ### State Management
 **GetX**: For state management, dependency injection, and route management within the Flutter app.
-## Installation
+
+## Installation 🛠️
 
 To get started with the DR Scan Flutter project, follow these steps:
 
