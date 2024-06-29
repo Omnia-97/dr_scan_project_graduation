@@ -50,12 +50,6 @@ To get started with the DR Scan Flutter project, follow these steps:
    ```bash
    flutter run
    
-<a id="authors"></a>  
-## 👥 Authors
-
-- **Omnia Nabil** - [Omnia-97](https://github.com/Omnia-97)
-- **Mariam Elkhelawy** - [Mariam-Elkhelawy](https://github.com/Mariam-Elkhelawy)
-
   
 
 # Contributing
@@ -63,7 +57,8 @@ To get started with the DR Scan Flutter project, follow these steps:
 Contributions to Dr. Scan are highly appreciated! If you're interested in contributing, please fork the repository and submit a pull request with your proposed changes.
 
 
-# Credits 🙌
+<a id="authors"></a>  
+## 👥 Authors
 
 This project was created with love by [[Omnia-97](https://github.com/Omnia-97) and [Mariam-Elkhelawy](https://github.com/Mariam-Elkhelawy)]. ❤️
 
